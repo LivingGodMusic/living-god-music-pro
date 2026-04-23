@@ -58,6 +58,7 @@ const songs=[
 {title:"God of Mercy",id:"Lt6YKq0uYf0"},
 {title:"Come On and Praise the Lord",id:"Am8h1P27eMk"},
 {title:"Spirit & Truth Worship",id:"YDNeCboAalw"}
+{title:"When the Devil Speaks…",id:"wsxcxuGGhGw"}  
 ];
 
 let current=0;
